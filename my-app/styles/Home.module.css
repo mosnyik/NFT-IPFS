@@ -5,6 +5,7 @@
   justify-content: center;
   align-items: center;
   font-family: "Courier New", Courier, monospace;
+  margin-left: 2%;
 }
 
 .footer {
@@ -34,7 +35,7 @@
 
 .button {
   border-radius: 4px;
-  background-color: blue;
+  background-color: brown;
   border: none;
   color: #ffffff;
   font-size: 15px;
